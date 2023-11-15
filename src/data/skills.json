@@ -1,0 +1,39 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Adobe Illustrator",
+    "imageSrc": "skills/AdobeAI.png"
+  },
+  {
+    "title": "Adobe Photoshop",
+    "imageSrc": "skills/AdobePS.png"
+  },
+  {
+    "title": "Google Ads",
+    "imageSrc": "skills/GoogleAds.png"
+  },
+  {
+    "title": "Google Analytics",
+    "imageSrc": "skills/GoogleAnalytics.png"
+  }
+
+]

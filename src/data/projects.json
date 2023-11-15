@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Graduation Portal",
+    "imageSrc": "projects/coverpage.jpg",
+    "description": [
+      "The Graduation Portal is a user-friendly platform designed for graduate students.",
+      "It offers a comprehensive dashboard that allows students to sign up, access various features, and manage their career-related activities.",
+      "Key features include searching the working history of other cohort students, exploring job opportunities, and creating job postings."
+    ],
+    "skills": ["React", "Material UI", "Node.js", "CSS"],
+    "demo": "https://generation-graduates-tracker.netlify.app/"
+  }
+]

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../charlie-portfolio/assets"
+		},
+		{
+			"path": "../charlie-portfolio/dist"
+		},
+		{
+			"path": "../charlie-portfolio/src"
+		}
+	],
+	"settings": {}
+}
