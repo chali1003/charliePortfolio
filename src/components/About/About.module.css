@@ -127,3 +127,13 @@
   width: 50px;
   padding: 2px 2px 2px 2px;
 }
+
+@media screen and (max-width: 375px) {
+  .aboutItem img {
+    width: 40px;
+  }
+}
+
+.title {
+  margin-left: 15px;
+}
